@@ -1,0 +1,4 @@
+[
+  "tests/test_content_integration.py::test_content_endpoint",
+  "tests/test_content_integration.py::test_web_scraper_integration"
+]
